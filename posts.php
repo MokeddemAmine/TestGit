@@ -24,6 +24,15 @@
                 <div class="col col-md-6 col-lg-3">
                     laksjd fkojklasjdklfklajsdf
                 </div>
+                <div class="col col-md-6 col-lg-3">
+                    some new content
+                </div>
+                <div class="col col-md-6 col-lg-3">
+                    some new content
+                </div>
+                <div class="col col-md-6 col-lg-3">
+                    some new content
+                </div>
             </div>
         </div>
     </div>
