@@ -7,5 +7,8 @@
 </head>
 <body>
     <div class="text-center">assi l azaoui newfel</div>
+    <footer class="text-center">
+        copyright &copy; by newfel lazaoui company . all right reserved 2024
+    </footer>
 </body>
 </html>
